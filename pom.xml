@@ -18,7 +18,10 @@
 		<java.version>17</java.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
-
+		<sonar.language>java</sonar.language>
+		<sonar.host.url>http://localhost:9090</sonar.host.url>
+		<sonar.login>sqa_f5930142b2555a2cab9ff41e7d55e834d623f175</sonar.login>
+		
 	</properties>
 
 	<dependencies>
@@ -80,9 +83,16 @@
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter-api</artifactId>
-			<version>5.10.0</version>
+			
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13.2</version>
+    <scope>test</scope>
+</dependency>
+
 
 
 		<!-- add the addtional dependecies if required -->
@@ -151,6 +161,23 @@
 			</plugin>
 		</plugins>
 	</build>
-
+<distributionManagement>
+<repository>
+<id>artifactory</id>
+<name>Capstone</name>
+<url>http://localhost:8081/artifactory/Capstone</url>
+</repository>
+</distributionManagement>
+<dependencyManagement>
+    <dependencies>
+        <dependency>
+            <groupId>org.junit</groupId>
+            <artifactId>junit-bom</artifactId>
+            <version>5.12.2</version>
+            <type>pom</type>
+            <scope>import</scope>
+        </dependency>
+    </dependencies>
+</dependencyManagement>
 
 </project>
