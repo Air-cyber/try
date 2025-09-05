@@ -1,0 +1,24 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬®îÊùÿÿÿÿ8üÇàŸ2J$268041e5-6e6f-4e1c-863f-2c9e371a68e4
+’
+java:S1104"OMake pnr a static final constant or non-public and provide accessors if needed.(íèÖù8ıÇàŸ2J$53decdb0-6c0b-47ec-9e49-fd8b55eb1f75
+˜
+java:S3655R"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(˜ßÒÚùÿÿÿÿ8şÇàŸ2J$62633f48-f2ce-480c-b76f-c15d07149fb4
+l
+java:S1444")Make this "public static pnr" field final(íèÖù8şÇàŸ2J$a380389e-98ee-46b0-bef5-3b94854bd9cb
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œèó—ÿÿÿÿÿ8ÈàŸ2J$ade81f09-4c74-4c52-b619-f7e3b416d759
+}
+java:S2209."5Change this instance-reference to a static reference.(ä×–½øÿÿÿÿ8‡ÈàŸ2J$5bd2e076-eb1a-43d2-843c-a02d53e50ebe
+}
+java:S22090"5Change this instance-reference to a static reference.(Ÿñ“üÿÿÿÿ8‡ÈàŸ2J$54c9fb8e-2d59-4c05-a31d-b13be4482c1d
+}
+java:S22092"5Change this instance-reference to a static reference.(Ù¾ …úÿÿÿÿ8‡ÈàŸ2J$ebb48d10-649d-4364-9992-c0d0fabbea56
+~	java:S125T"<This block of commented-out lines of code should be removed.(ôê®Î8ŠÈàŸ2J$d666e3ab-c5f6-4429-b36c-bdb12b1c180b
+y
+java:S2696Y"6Make the enclosing method "static" or remove this set.(˜­Ó˜8ŠÈàŸ2J$18ff7ba0-334c-472a-b1ca-64e0bc477659
+l	java:S106g"+Replace this use of System.out by a logger.(£‘ër8ŒÈàŸ2J$99b49319-5f2f-4169-b8ec-ceb8d2002058
+r	java:S106h"+Replace this use of System.out by a logger.(”’çÍúÿÿÿÿ8ŒÈàŸ2J$2a32676d-805a-4d51-810c-214e0853ecf2
+r	java:S106i"+Replace this use of System.out by a logger.(¦Áé„øÿÿÿÿ8ŒÈàŸ2J$8dce51b8-1005-4a5a-b856-5e7be6d2b657
+r	java:S106j"+Replace this use of System.out by a logger.(”’çÍúÿÿÿÿ8ŒÈàŸ2J$35ef7114-afdd-4c0b-b625-5c3e53900b1c
+r	java:S106k"+Replace this use of System.out by a logger.(¢œÇëşÿÿÿÿ8ŒÈàŸ2J$df2f4f37-934a-4cb7-b20e-fbaf3c0bc4f3

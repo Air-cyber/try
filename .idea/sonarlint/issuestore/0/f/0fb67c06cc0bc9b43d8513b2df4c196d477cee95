@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø“¨8‹›…Ÿ2J$f0062b1c-2db2-459b-a05a-1f90e6a6ca1a
+
+java:S1488&"[Immediately return this expression instead of assigning it to the temporary variable "pnr".(ùµºè8›…Ÿ2J$97d33d2d-1da6-4027-94dc-8aad5822a7d1
+r
+java:S3740"/Provide the parametrized type for this generic.(»Éş8›…Ÿ2J$67fc72de-bc56-4f7d-93a1-1e3b90ffdae5
+
+java:S1192"GDefine a constant instead of duplicating this literal "Mumbai" 3 times.(¶æóşÿÿÿÿÿ8›…Ÿ2J$974691c9-ae66-40e4-8e80-8db8049d2f46
+€
+java:S1854"8Remove this useless assignment to local variable "fare".(‹¾”¹øÿÿÿÿ8¦›…Ÿ2J$2af1d0e5-82ba-460a-bfd1-8ed3b2b88e26
+q
+java:S1172$".Remove this unused method parameter "booking".(¤Ë8¦›…Ÿ2J$ada43541-7433-4638-89cb-056a456fdeb9
+~
+java:S2696%"6Make the enclosing method "static" or remove this set.(—Îñùıÿÿÿÿ8¦›…Ÿ2J$b6c55c1d-0bbb-425c-9311-796d65ad19a9

@@ -1,0 +1,27 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ×—ïÿÿÿÿÿ8¬Œ—2J$ce678195-6a7f-4425-8b4b-fcb097170aed
+
+java:S2259Q"EA "NullPointerException" could be thrown; "booking" is nullable here.(›¸ƒÏúÿÿÿÿ8¯Œ—2J$801ee57b-8dfd-4229-9358-572c2d57b95f
+
+java:S1192$"ËDefine a constant instead of duplicating this literal "------------------------------------------------------------------------------------------------------------------------------------------" 4 times.(À¶Ñ,8°Œ—2J$48b530db-fe89-4cbd-a900-26b0f60e4155
+¶
+java:S1192%"nDefine a constant instead of duplicating this literal "%-16s%-16s%-16s%-16s%-16s%-16s%-16s%-16s%-16s" 4 times.(¬öË¨ùÿÿÿÿ8°Œ—2J$daab4aea-342b-4784-85b6-8adaa74e0b4d
+~	java:S125"<This block of commented-out lines of code should be removed.(é»¯Ä8´Œ—2J$bd9fe499-19d2-4474-ace2-21ecc0dae500
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(³âğøÿÿÿÿ8‚ª’Ÿ2J$d340a02b-c0d5-4e9f-a791-759d940a2a29
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÏŒ†şÿÿÿÿ8ì¨—2J$e7f69b4c-5343-4628-9a4d-a30df80e1c16
+m	java:S106!"+Replace this use of System.out by a logger.(ß’Ú…8ºŒ—2J$b8ac89a8-7a82-4747-92e4-c76ff31b9e60
+l	java:S106$"+Replace this use of System.out by a logger.(À¶Ñ,8ºŒ—2J$6b8828a4-65c7-485a-9ac2-14d61eaefc8f
+r	java:S106%"+Replace this use of System.out by a logger.(¬öË¨ùÿÿÿÿ8ºŒ—2J$d71ce395-4bf0-43ad-a871-92b60fd50273
+l	java:S106&"+Replace this use of System.out by a logger.(À¶Ñ,8»Œ—2J$1b2e17f5-a983-44b9-89d7-4aac45e967a0
+m	java:S106)"+Replace this use of System.out by a logger.(ÈÏ¹Š8»Œ—2J$65837d85-6042-4100-ade9-6dc113a33ab6
+m	java:S1069"+Replace this use of System.out by a logger.(ß’Ú…8½Œ—2J$a10ce731-f739-4784-9c70-655cf5784bec
+l	java:S106;"+Replace this use of System.out by a logger.(¶şœp8½Œ—2J$d9f09b0e-5341-4672-abd2-56366d022e58
+l	java:S106<"+Replace this use of System.out by a logger.(À¶Ñ,8½Œ—2J$0d448b03-1283-43ec-aa92-8a13d89193a9
+r	java:S106="+Replace this use of System.out by a logger.(¬öË¨ùÿÿÿÿ8½Œ—2J$bbbb4af6-1e5a-4b15-a5c0-0b895b360e4a
+l	java:S106>"+Replace this use of System.out by a logger.(À¶Ñ,8½Œ—2J$6941cf6a-e69a-44e3-9e0b-da3d94a7868d
+m	java:S106A"+Replace this use of System.out by a logger.(ÈÏ¹Š8¾Œ—2J$4c87f3e6-05f9-4c87-9040-073dfe114ad3
+r	java:S106Q"+Replace this use of System.out by a logger.(›¸ƒÏúÿÿÿÿ8¿Œ—2J$cf635bdc-47d1-45a3-b1c5-9d7babde0b66
+~
+java:S1128";Remove this unused import 'org.apache.commons.logging.Log'.(Å¼î²8áÛ•—2J$f65a12ad-3675-43d1-836e-bea83ec4af1a
+…
+java:S1128	"BRemove this unused import 'org.apache.commons.logging.LogFactory'.(Ç„Í8áÛ•—2J$cc14ade3-2204-45b5-a456-e6e72d0d5f5f
