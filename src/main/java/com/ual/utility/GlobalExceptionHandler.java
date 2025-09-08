@@ -1,7 +1,5 @@
 package com.ual.utility;
 
-import com.ual.exception.URSException;
-
 import java.time.LocalDateTime;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,6 +10,8 @@ import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.context.request.WebRequest;
+
+import com.ual.exception.URSException;
 
 @RestControllerAdvice
 public class GlobalExceptionHandler {
