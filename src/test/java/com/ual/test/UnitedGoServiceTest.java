@@ -19,6 +19,7 @@ import com.ual.exception.URSException;
 import com.ual.repository.FlightRepository;
 import com.ual.service.BookingService;
 import com.ual.service.UnitedGoService;
+import com.ual.service.UnitedGoServiceImpl;
 
 import jakarta.transaction.Transactional;
 
